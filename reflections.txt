@@ -7,3 +7,20 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+What new skills have you learned?
+
+  - I already knew some HTML so most of this was practice. I did learn the elements <sup> and <s>.
+
+What has been easy?
+
+  - So far most has been practice of things I already knew so pretty easy so far.
+
+What has been difficult?
+
+  - Nothing yet.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+  - Searched on MDN for the needed elements.
+  - Looked in the discussion forums as I was not sure what the correct elements were to use on "By Christopher Watkins" and "March 10, 2016". This was more an issue of comparing how my laptop screen renders the PDF versus Chrome does the HTML. I went with a <p> element as that most closely resembled the PDF but if an <h1>-<h6> should be used let me know and I can change it.
